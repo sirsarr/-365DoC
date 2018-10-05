@@ -1,6 +1,6 @@
 #Ex23 Strings, Bytes and Character Encodings
 
-#Importation du module sys
+#Importation du module sys pour recuperer les arguments
 import sys
 
 #Unpacking
